@@ -1,1 +1,1 @@
-[ ] Test Pull Request feature
+[x] Test Pull Request feature
