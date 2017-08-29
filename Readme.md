@@ -1,3 +1,3 @@
-[x] Test Pull Request feature
-[ ] Using git flow syntax
-[ ] Rebasing local branches
+- [x] Test Pull Request feature
+- [ ] Using git flow syntax
+- [-] Rebasing local branches
